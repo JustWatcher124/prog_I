@@ -14,8 +14,3 @@ print()
 for i in range(26):
     print(i,end=":")
     ceaser_chiffre("gpkyfezjtffc", 26-i)
-
-
-
-
-
